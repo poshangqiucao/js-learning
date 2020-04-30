@@ -14,3 +14,4 @@ console.log(Math.ceil(2.5));
 console.log(Math.round(2.1));
 console.log(Math.round(2.9));
 console.log(Math.round(2.5));
+
